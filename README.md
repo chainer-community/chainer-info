@@ -138,23 +138,21 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 
 ## Official announcements
 
-* [TensorFlow: smarter machine learning, for everyone](https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html) - An introduction to TensorFlow
-* [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html) - Release of SyntaxNet, "an open-source neural network framework implemented in TensorFlow that provides a foundation for Natural Language Understanding systems.
-
+* [Chainer document](http://docs.chainer.org/en/latest/index.html) - An introduction to Chainer
 ## Blog posts
+* [Chainer blogs](http://chainer.org/blog/)
 
 
 <a name="community" />
 ## Community
 ### Global
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/tensorflow)
-* [@TensorFlo on Twitter](https://twitter.com/TensorFlo)
-* [Reddit](https://www.reddit.com/r/tensorflow)
-* [Mailing List](https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss)
+* [@ChainerOfficial on Twitter](https://twitter.com/ChainerOfficial)
+* [Mailing List](https://groups.google.com/forum/#!forum/chainer)
 ### Japan
-*
-*
-*
+* [@ChainerJP on Twitter](https://twitter.com/ChainerJP)
+* [Mailing List](https://groups.google.com/forum/#!forum/chainer-jp)
+* [Slack](http://bit.ly/chainer-jp-slack)
+* [connpass](https://chainer.connpass.com/)
 
 <a name="books" />
 ## Books
