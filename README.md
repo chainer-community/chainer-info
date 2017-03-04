@@ -148,6 +148,7 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 ### Global
 * [@ChainerOfficial on Twitter](https://twitter.com/ChainerOfficial)
 * [Mailing List](https://groups.google.com/forum/#!forum/chainer)
+
 ### Japan
 * [@ChainerJP on Twitter](https://twitter.com/ChainerJP)
 * [Mailing List](https://groups.google.com/forum/#!forum/chainer-jp)
