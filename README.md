@@ -139,6 +139,7 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 ## Official announcements
 
 * [Chainer document](http://docs.chainer.org/en/latest/index.html) - An introduction to Chainer
+
 ## Blog posts
 * [Chainer blogs](http://chainer.org/blog/)
 
@@ -148,6 +149,7 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 ### Global
 * [@ChainerOfficial on Twitter](https://twitter.com/ChainerOfficial)
 * [Mailing List](https://groups.google.com/forum/#!forum/chainer)
+* [Slack](http://bit.ly/chainer-slack)
 
 ### Japan
 * [@ChainerJP on Twitter](https://twitter.com/ChainerJP)
