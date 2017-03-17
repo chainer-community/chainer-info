@@ -25,18 +25,24 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 
 
 <a name="github-tutorials" />
+
 ## Tutorials
+
 * [Chainer Tutorial Offical document]http://docs.chainer.org/en/latest/tutorial/index.html) - Chainer Tutorial Offical document
 
 ## Hands-on
+
 *	[hido/chainer-handson](https://github.com/hido/chainer-handson/blob/master/chainer.ipynb) - Chainer Hands-on
 *	[iwiwi/chainer-handson](https://github.com/iwiwi/chainer-handson/blob/master/chainer-ja.ipynb) - Chainer Hands-on(JP CPU only)
 
 
 
 <a name="github-projects" />
+
 ## Models/Projects
+
 ### Preferred Networks official
+
 * [ChainerRL](https://github.com/pfnet/chainerrl) - ChainerRL is a deep reinforcement learning library built on top of Chainer.
 * [ChainerCV](https://github.com/pfnet/chainercv) -  Versatile set of tools for Deep Learning based Computer Vision
 * [Paint Chainer](https://github.com/pfnet/PaintsChainer) - Paints Chainer is line drawing colorizer using chainer.
@@ -118,6 +124,7 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 
 
 <a name="video" />
+
 ## Videos
 
 ### Only Japanese
@@ -129,6 +136,7 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 
 
 <a name="papers" />
+
 ## Papers
 
 | Conference | Paper title | Codes | comments |
@@ -199,6 +207,7 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 * [connpass](https://chainer.connpass.com/)
 
 <a name="books" />
+
 ## Books
 
 * [Chainerによる実践深層学習](https://www.amazon.co.jp/dp/B01NBMKH21/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by 新納浩幸
