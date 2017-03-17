@@ -38,11 +38,20 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 ## Models/Projects
 ### Preferred Networks official
 * [ChainerRL](https://github.com/pfnet/chainerrl) - ChainerRL is a deep reinforcement learning library built on top of Chainer.
+* [ChainerCV](https://github.com/pfnet/chainercv) -  Versatile set of tools for Deep Learning based Computer Vision
 * [Paint Chainer](https://github.com/pfnet/PaintsChainer) - Paints Chainer is line drawing colorizer using chainer.
 
 <a name="#github-examples" />
 
 # Chainer External Examples
+
+## Preferred NetWorks Research
+* [LSGAN](https://github.com/pfnet-research/chainer-LSGAN) - Least Squares Generative Adversarial Network implemented in Chainer
+* [Chainer-gogh](https://github.com/pfnet-research/chainer-gogh) - Implementation of "A neural algorithm of Artistic style"
+* [Chainer Graph CNN](https://github.com/pfnet-research/chainer-graph-cnn) - Chainer implementation of 'Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering' (https://arxiv.org/abs/1606.09375)
+* [chainer-segnet](https://github.com/pfnet-research/chainer-segnet) - SegNet implementation & experiments in Chainer
+* [chainer-pix2pix](https://github.com/pfnet-research/chainer-pix2pix) - chainer implementation of pix2pix
+
 
 ## Examples
 
@@ -109,12 +118,17 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 
 
 <a name="video" />
-##Videos
+## Videos
+### Only Japanese
+* [Chainer の Trainer 解説とNStepLSTM について](https://www.youtube.com/watch?v=ok_bvPKAEaM) Published on Mar 15, 2017
+* [Chainer Meetup #04](https://www.youtube.com/watch?v=Fq5ZQ1ccG38&t=6837s) Published on Feb 23, 2017
+* [1014：深層学習フレームワークChainerの導入と化合物活性予測への応用](https://www.youtube.com/watch?v=lM76gLQag4I&t=1211s) Published on Dec 2, 2015
 
 
 
 <a name="papers" />
-##Papers
+## Papers
+
 | Conference | Paper title | Codes | comments |
 |:-----------|:------------|:------|:---------|
 | arXiv only |  [Temporal Generative Adversarial Nets](https://arxiv.org/abs/1611.06624) | | |
@@ -156,23 +170,26 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 ## Official announcements
 
 * [Chainer document](http://docs.chainer.org/en/latest/index.html) - An introduction to Chainer
-
-## Blog posts
 * [Chainer blogs](http://chainer.org/blog/)
-- [Introduction to Chainer: Neural Networks in Python](http://multithreaded.stitchfix.com/blog/2015/12/09/intro-to-chainer/)
-- [The DIY Guide to Chainer](https://github.com/jxieeducation/DIY-Data-Science/blob/master/frameworks/chainer.md)
-- [CHAINER CHARACTER EMBEDDINGS](http://dirko.github.io/Chainer-character-embeddings/)
-- [A Fontastic Voyage: Generative Fonts with Adversarial Networks](http://multithreaded.stitchfix.com/blog/2016/02/02/a-fontastic-voyage/)
+
+## Community
+* [Introduction to Chainer: Neural Networks in Python](http://multithreaded.stitchfix.com/blog/2015/12/09/intro-to-chainer/)
+* [The DIY Guide to Chainer](https://github.com/jxieeducation/DIY-Data-Science/blob/master/frameworks/chainer.md)
+* [CHAINER CHARACTER EMBEDDINGS](http://dirko.github.io/Chainer-character-embeddings/)
+* [A Fontastic Voyage: Generative Fonts with Adversarial Networks](http://multithreaded.stitchfix.com/blog/2016/02/02/a-fontastic-voyage/)
 
 
 <a name="community" />
+
 ## Community
 ### Global
+
 * [@ChainerOfficial on Twitter](https://twitter.com/ChainerOfficial)
 * [Mailing List](https://groups.google.com/forum/#!forum/chainer)
 * [Slack](http://bit.ly/chainer-slack)
 
 ### Japan
+
 * [@ChainerJP on Twitter](https://twitter.com/ChainerJP)
 * [Mailing List](https://groups.google.com/forum/#!forum/chainer-jp)
 * [Slack](http://bit.ly/chainer-jp-slack)
