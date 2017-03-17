@@ -115,40 +115,41 @@ ref [Chainer.wiki](https://github.com/pfnet/chainer/wiki) - Chainer Wiki
 
 <a name="papers" />
 ##Papers
-*  [Temporal Generative Adversarial Nets](https://arxiv.org/abs/1611.06624) -	arXiv only
-*  [Reasoning with Memory Augmented Neural Networks for Language Comprehension](https://arxiv.org/abs/1610.06454) -	arXiv only
-*  [PMI Matrix Approximations with Applications to Neural Language Modeling](https://arxiv.org/abs/1609.01235) -	arXiv only
-*  [Neural Tree Indexers for Text Understanding](https://arxiv.org/abs/1607.04492) -	arXiv only
-*  [Neural Semantic Encoders](https://arxiv.org/abs/1607.04315) -	arXiv only
-*  [Networked Intelligence: Towards Autonomous Cyber Physical Systems](https://arxiv.org/abs/1606.04087) -	arXiv only
-*  [Modeling the dynamics of human brain activity with recurrent neural networks](https://arxiv.org/abs/1606.03071) -	arXiv only
-*  [A Deep-Learning Approach for Operation of an Automated Realtime Flare Forecast](https://arxiv.org/abs/1606.01587) -	arXiv only
-*  [Convolutional Neural Networks using Logarithmic Data Representation](https://arxiv.org/abs/1603.01025)	-	 arXiv only
-*  [context2vec: Learning Generic Context Embedding with Bidirectional LSTM](http://u.cs.biu.ac.il/%7Emelamuo/publications/context2vec_conll16.pdf) -	CoNLL 2016
-* [Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec](https://arxiv.org/abs/1605.02019) -	CoNLL 2016  
-* [Deep Impression: Audiovisual Deep Residual Networks for Multimodal Apparent Personality Trait Recognition](https://arxiv.org/abs/1609.05119) -	ECCV 2016 Workshop  
-* [Learning Joint Representations of Videos and Sentences with Web Image Search](https://arxiv.org/abs/1608.02367) -	ECCV 2016 Workshop  
-* [Incorporating Discrete Translation Lexicons into Neural Machine Translation](https://arxiv.org/abs/1606.02006) -	EMNLP 2016
-* [Controlling Output Length in Neural Encoder-Decoders](https://arxiv.org/abs/1609.09552) -	EMNLP 2016
-* [Insertion Position Selection Model for Flexible Non-Terminals in Dependency Tree-to-Tree Machine Translation](http://www.aclweb.org/anthology/D16-1247) -	EMNLP 2016
-* [Learning Representations Using Complex-Valued Nets](https://arxiv.org/abs/1511.06351) -	ICLR 2016  
-* [Dynamic Coattention Networks For Qustion Answering](https://arxiv.org/abs/1611.01604) -	ICLR 2017 under review  
-* [SqueezeNet: AlexNet-level Accuracy with 50x Fewer Parameters and < 0.5MB Model Size](https://arxiv.org/abs/1602.07360) -	ICLR 2017 under review  
-* [Quasi-Recurrent Neural Networks](https://arxiv.org/abs/1611.01576) -	ICLR 2017 under review  
-* [Steerable CNNs](https://arxiv.org/abs/1612.08498) -	ICLR 2017  
-* [f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/abs/1606.00709) -	NIPS 2016 Workshop  
-* [QSGD: Randomized Quantization for Communication-Optimal Stochastic Gradient Descent](https://arxiv.org/abs/1610.02132) -	OPT 2016  
-* [Evaluation of Deep Learning based Pose Estimation for Sign Language Recognition](https://arxiv.org/abs/1602.09065) -	PETRA 2016  
-* [Machine-learning Selection of Optical Transients in Subaru/Hyper Suprime-Cam Survey](https://arxiv.org/abs/1609.03249) -	PASJ 2016  
-* [A Deep-Learning Approach for Operation of an Automated Realtime Flare Forecast](https://arxiv.org/abs/1606.01587) -	Space Weather 2016  
-* [Dynamic Entity Representation with Max-pooling Improves Machine Reading](http://aclweb.org/anthology/N/N16/N16-1099.pdf) -	NAACL 2016
-* [Feature-based Model versus Convolutional Neural Network for Stance Detection](http://aclweb.org/anthology/S/S16/S16-1065.pdf) -	SemEval 2016
-* [Cross-Lingual Image Caption Generation](https://www.aclweb.org/anthology/P/P16/P16-1168.pdf) -	ACL 2016
-* [Composing Distributed Representations of Relational Patterns](http://www.aclweb.org/anthology/P16-1215) -	ACL 2016
-* [Generating Natural Language Descriptions for Semantic Representations of Human Brain Activity](https://www.aclweb.org/anthology/P/P16/P16-3004.pdf) -	ACL 2016
-* [MetaMind Neural Machine Translation System for WMT 2016](https://aclweb.org/anthology/W/W16/W16-2308.pdf) -	WMT 2016
-* [Group Equivariant Convolutional Networks](https://arxiv.org/abs/1602.07576) -	ICML 2016
-
+| Conference | Paper title | Codes | comments |
+|:-----------|:------------|:------|:---------|
+| arXiv only |  [Temporal Generative Adversarial Nets](https://arxiv.org/abs/1611.06624) | | |
+| arXiv only |  [Reasoning with Memory Augmented Neural Networks for Language Comprehension](https://arxiv.org/abs/1610.06454) | | |
+| arXiv only |  [PMI Matrix Approximations with Applications to Neural Language Modeling](https://arxiv.org/abs/1609.01235) | | |
+| arXiv only |  [Neural Tree Indexers for Text Understanding](https://arxiv.org/abs/1607.04492) | [NTI](https://bitbucket.org/tsendeemts/nti/src) | |
+| arXiv only |  [Neural Semantic Encoders](https://arxiv.org/abs/1607.04315) | | |
+| arXiv only |  [Networked Intelligence: Towards Autonomous Cyber Physical Systems](https://arxiv.org/abs/1606.04087) | | |
+| arXiv only |  [Modeling the dynamics of human brain activity with recurrent neural networks](https://arxiv.org/abs/1606.03071) | | |
+| arXiv only |  [A Deep-Learning Approach for Operation of an Automated Realtime Flare Forecast](https://arxiv.org/abs/1606.01587) | | |
+| arXiv only |  [Convolutional Neural Networks using Logarithmic Data Representation](https://arxiv.org/abs/1603.01025)| | |
+| CoNLL 2016 |  [context2vec: Learning Generic Context Embedding with Bidirectional LSTM](http://u.cs.biu.ac.il/%7Emelamuo/publications/context2vec_conll16.pdf) | | |
+|  CoNLL 2016  | [Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec](https://arxiv.org/abs/1605.02019) | | |
+|  ECCV 2016 Workshop  | [Deep Impression: Audiovisual Deep Residual Networks for Multimodal Apparent Personality Trait Recognition](https://arxiv.org/abs/1609.05119) | | “3rd place in Looking at People ECCV Challenge” |
+|  ECCV 2016 Workshop  | [Learning Joint Representations of Videos and Sentences with Web Image Search](https://arxiv.org/abs/1608.02367) | | |
+| EMNLP 2016 | [Incorporating Discrete Translation Lexicons into Neural Machine Translation](https://arxiv.org/abs/1606.02006) | | |
+| EMNLP 2016 | [Controlling Output Length in Neural Encoder-Decoders](https://arxiv.org/abs/1609.09552) | | |
+| EMNLP 2016 | [Insertion Position Selection Model for Flexible Non-Terminals in Dependency Tree-to-Tree Machine Translation](http://www.aclweb.org/anthology/D16-1247) | | |
+|  ICLR 2016  | [Learning Representations Using Complex-Valued Nets](https://arxiv.org/abs/1511.06351) | | |
+|  ICLR 2017 under review  | [Dynamic Coattention Networks For Qustion Answering](https://arxiv.org/abs/1611.01604) | | |
+|  ICLR 2017 under review  | [SqueezeNet: AlexNet-level Accuracy with 50x Fewer Parameters and < 0.5MB Model Size](https://arxiv.org/abs/1602.07360) | | |
+|  ICLR 2017 under review  | [Quasi-Recurrent Neural Networks](https://arxiv.org/abs/1611.01576) | | |
+|  ICLR 2017  | [Steerable CNNs](https://arxiv.org/abs/1612.08498) | | Chainer is not referred in the paper, but the authors kindly informed us.|
+|  NIPS 2016 Workshop  | [f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/abs/1606.00709) | | |
+|  OPT 2016  | [QSGD: Randomized Quantization for Communication-Optimal Stochastic Gradient Descent](https://arxiv.org/abs/1610.02132) | | |
+|  PETRA 2016  | [Evaluation of Deep Learning based Pose Estimation for Sign Language Recognition](https://arxiv.org/abs/1602.09065) | | |
+|  PASJ 2016  | [Machine-learning Selection of Optical Transients in Subaru/Hyper Suprime-Cam Survey](https://arxiv.org/abs/1609.03249) | | PASJ: Publications of the Astronomical Society of Japan |
+|  Space Weather 2016  | [A Deep-Learning Approach for Operation of an Automated Realtime Flare Forecast](https://arxiv.org/abs/1606.01587) | | |
+| NAACL 2016 | [Dynamic Entity Representation with Max-pooling Improves Machine Reading](http://aclweb.org/anthology/N/N16/N16-1099.pdf) | | |
+| SemEval 2016 | [Feature-based Model versus Convolutional Neural Network for Stance Detection](http://aclweb.org/anthology/S/S16/S16-1065.pdf) | | |
+| ACL 2016 | [Cross-Lingual Image Caption Generation](https://www.aclweb.org/anthology/P/P16/P16-1168.pdf) | | |
+| ACL 2016 | [Composing Distributed Representations of Relational Patterns](http://www.aclweb.org/anthology/P16-1215) | | |
+| ACL 2016 | [Generating Natural Language Descriptions for Semantic Representations of Human Brain Activity](https://www.aclweb.org/anthology/P/P16/P16-3004.pdf) | | |
+| WMT 2016 | [MetaMind Neural Machine Translation System for WMT 2016](https://aclweb.org/anthology/W/W16/W16-2308.pdf) | | |
+| ICML 2016 | [Group Equivariant Convolutional Networks](https://arxiv.org/abs/1602.07576) | [GitHub](https://github.com/tscohen/GrouPy) | Chainer is not referred in the paper, but the authors kindly informed us.|
 
 <a name="blogs" />
 
